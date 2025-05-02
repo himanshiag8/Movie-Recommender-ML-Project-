@@ -199,7 +199,7 @@ recommended("Avatar")
 #fetch_poster() Function
 import requests
 
-API_KEY = 'f050a27e55ce21553e1776dda5ab47eb'  # TMDB API key
+API_KEY = 'your_api_key_here'  # TMDB API key
 
 def fetch_poster(movie_id):
     # Construct the URL to fetch movie details using TMDB API
