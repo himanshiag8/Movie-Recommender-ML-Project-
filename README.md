@@ -54,7 +54,7 @@ To build a web application that recommends the top 5 similar movies based on a s
 
 ## 🚀 Hosted On:
 - **Hugging Face Spaces** – Using Gradio App  
-👉 [App Link Coming Soon or Add It Here]
+👉 (https://huggingface.co/spaces/himanshiag8/movie-recommender)
 
 ---
 
